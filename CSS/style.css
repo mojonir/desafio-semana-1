@@ -29,38 +29,3 @@ body {
     border-radius: 25px;
     margin: 60px ,0;
    
-    
-}
-.img{
-    height: 350px;
-    width: 350px;
-    position: relative;
-    left: 1100px;
-    bottom: 320px;
-}
-.ball{
-    position: relative;
-    height: 25px;
-    width: 25px;
-    border-radius: 90px;
-    background-color: rgb(255, 174, 74);
-    bottom: -20px;
-}
-.txtball{
-    position: relative;
-    left: 40px;
-    bottom: 2px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: justify;
-    width: 1340px;
-    margin-top: 80px;
-}
-.ldir{
-    position: relative;
-    left: 1520px;
-    bottom: 900px;
-    height: 1000px;
-    width: 5px;
-    background-color: rgb(255, 174, 74);
-    border-radius: 25px;
-} 
