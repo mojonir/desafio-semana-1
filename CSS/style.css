@@ -1,6 +1,6 @@
 body {
 
-    background-color: rgb(248, 236, 214)
+    background-color: rgb(255, 235, 199)
 }
 
 .esq {
@@ -18,7 +18,7 @@ body {
 }
 .cabe{
     height: 5px;
-    width: auto;
+    width: 1525px;
     background-color: rgb(255, 174, 74);
     border-radius: 25px;
 }
@@ -37,6 +37,7 @@ body {
     position: relative;
     left: 1100px;
     bottom: 320px;
+    filter: brightness(0) saturate(100%) invert(89%) sepia(17%) saturate(4954%) hue-rotate(321deg) brightness(101%) contrast(107%);
 }
 .ball{
     position: relative;
